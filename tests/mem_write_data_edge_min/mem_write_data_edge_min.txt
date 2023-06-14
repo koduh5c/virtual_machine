@@ -1,0 +1,1 @@
+Writes to data memory min edge then boundary address

@@ -1,0 +1,1 @@
+Subtracts second input from the first input
